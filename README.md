@@ -10,9 +10,10 @@ I am a software developer with **5+ years of experience** specializing in creati
 
 ---
 
-### 👨‍💻 Professional Skills
-
----
+<details>
+  <summary>
+    <h3>👨‍💻 Professional Skills</h3> 
+  </summary>
 
 ### Programming Languages  
 - C#, Java, Python, Dart, PHP  
@@ -37,6 +38,9 @@ I am a software developer with **5+ years of experience** specializing in creati
 - **APIs**: RESTful APIs 
 - **Performance Optimization**: Code optimization
 - **Collaboration Tools**: Jira, Trello, Slack, Notion, Teams
+
+
+</details>
 
 ---
 
