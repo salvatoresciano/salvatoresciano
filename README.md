@@ -46,16 +46,25 @@ Are you looking for a developer to bring your vision to life? I’m open to **fr
 📫 **How to reach me:**  
 Feel free to contact me via email or explore my projects here on GitHub. Let’s create something amazing together!  
 
+---
 
-
-# 📊 GitHub Stats:
+<details>
+  <summary>
+  <h3> 🏫 Some of my stats </h3>
+  </summary>
+  
 ![](https://github-readme-stats.vercel.app/api?username=salvatoresciano&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=salvatoresciano&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salvatoresciano&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=salvatoresciano&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
-  ## 💰 You can help me by Donating
+</details>
+
+
+---
+
+
+  ### 💰 Support Me
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/salvosciano) 
