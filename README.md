@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ssciano1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/salvo_desi_sc97_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salvatore-scian%C3%B2/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ssciano1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/salvo_desi_sc97_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvatore-scian%C3%B2/) 
 
 I am a software developer with **5+ years of experience** specializing in creating immersive digital experiences and functional solutions. My expertise spans **game development**, **app development**, and **web development**, complemented by a strong background in **design** and **modern tech stacks**. Currently, I work at **MTM Reality**, where I focus on **Unity** projects, including **VR** and **AR** applications. I’m passionate about turning innovative ideas into reality and always strive to deliver high-quality results.  
 
